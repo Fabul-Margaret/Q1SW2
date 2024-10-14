@@ -1,0 +1,34 @@
+#container1{
+	background-color: #459CCE;
+	width: 600px;
+	margin: auto;
+}
+.container2{
+	background-color: #B7C3F3;
+	width: 250px;
+	padding: 20px;
+	margin: auto;
+	box-shadow: 2px 2px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+	body{
+		background-image: url('https://i.pinimg.com/564x/fc/1b/01/fc1b0161ecdda50489e46a79c4b3be74.jpg');
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background-attachment: fixed;
+		image-orientation: landscape;
+	}
+
+#submit{
+	border-radius: 10px;
+	background-color: #84BCDA;
+	color: white;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+	label{
+		font-family: helvetica, sans-serif;
+		font-size: 25px; 
+
+	}
